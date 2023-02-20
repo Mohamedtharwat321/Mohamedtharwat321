@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Tharwat</h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtharwat321&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtharwat321" /> </p>
