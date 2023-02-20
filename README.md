@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtharwat321&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtharwat321" /> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=28&duration=5500&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=40&duration=5500&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 - 🔭 I’m currently studying at **faculty of Engineering , Helwan University, Egypt.**
 
 - 🌱 I’m currently learning **React**
