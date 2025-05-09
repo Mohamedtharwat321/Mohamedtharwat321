@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=30&duration=5500&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 - 🔭 I’m currently studying at **faculty of Engineering , Helwan University, Egypt.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **ReactJs and Frontend**
 
